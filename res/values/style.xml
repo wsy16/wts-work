@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.picker" parent="android:Theme.Holo.Light">
+        <item name="android:editTextStyle">@style/Widget.EditText.White</item>
+    </style>
+
+    <style name="Widget.EditText.White" parent="@android:style/Widget.EditText">
+        <item name="android:textColor">@color/light_gray</item>
+    </style>
+
+<!--     <style name="Widget.CompoundButton.RadioButton"> -->
+<!--         <item name="android:background">@android:drawable/btn_radio_label_background</item> -->
+<!--         <item name="android:button">@android:drawable/btn_radio</item> -->
+<!--     </style> -->
+
+</resources>
