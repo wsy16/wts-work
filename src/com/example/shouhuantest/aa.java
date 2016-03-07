@@ -8,5 +8,5 @@ public class aa {
 	private int  bbbz;
     private  int  cczc; 
     private  int  afszdaf;
-
+//faasf
 }
